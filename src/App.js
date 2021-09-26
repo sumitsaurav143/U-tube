@@ -21,7 +21,7 @@ const App = () => {
     }
     else
     {
-    document.querySelector(".LeftPanel").style.left = "-60%";
+    document.querySelector(".LeftPanel").style.left = "-100%";
     setMenu(false);
     }
   }
