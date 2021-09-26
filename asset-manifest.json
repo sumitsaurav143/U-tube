@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/U-tube/static/css/main.31fc3166.chunk.css",
-    "main.js": "/U-tube/static/js/main.32a58453.chunk.js",
-    "main.js.map": "/U-tube/static/js/main.32a58453.chunk.js.map",
+    "main.css": "/U-tube/static/css/main.8c8d35ea.chunk.css",
+    "main.js": "/U-tube/static/js/main.fd9eba8c.chunk.js",
+    "main.js.map": "/U-tube/static/js/main.fd9eba8c.chunk.js.map",
     "runtime-main.js": "/U-tube/static/js/runtime-main.bb76e4c3.js",
     "runtime-main.js.map": "/U-tube/static/js/runtime-main.bb76e4c3.js.map",
-    "static/js/2.f4829837.chunk.js": "/U-tube/static/js/2.f4829837.chunk.js",
-    "static/js/2.f4829837.chunk.js.map": "/U-tube/static/js/2.f4829837.chunk.js.map",
+    "static/js/2.2f2cdbd0.chunk.js": "/U-tube/static/js/2.2f2cdbd0.chunk.js",
+    "static/js/2.2f2cdbd0.chunk.js.map": "/U-tube/static/js/2.2f2cdbd0.chunk.js.map",
     "index.html": "/U-tube/index.html",
-    "static/css/main.31fc3166.chunk.css.map": "/U-tube/static/css/main.31fc3166.chunk.css.map",
-    "static/js/2.f4829837.chunk.js.LICENSE.txt": "/U-tube/static/js/2.f4829837.chunk.js.LICENSE.txt"
+    "static/css/main.8c8d35ea.chunk.css.map": "/U-tube/static/css/main.8c8d35ea.chunk.css.map",
+    "static/js/2.2f2cdbd0.chunk.js.LICENSE.txt": "/U-tube/static/js/2.2f2cdbd0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bb76e4c3.js",
-    "static/js/2.f4829837.chunk.js",
-    "static/css/main.31fc3166.chunk.css",
-    "static/js/main.32a58453.chunk.js"
+    "static/js/2.2f2cdbd0.chunk.js",
+    "static/css/main.8c8d35ea.chunk.css",
+    "static/js/main.fd9eba8c.chunk.js"
   ]
 }
